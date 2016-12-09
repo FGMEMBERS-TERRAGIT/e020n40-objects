@@ -82,3 +82,4 @@ OBJECT_SHARED Models/lib/cars14.ac 22.98267 40.52256 1.06 255.15
 OBJECT_SHARED Models/lib/cars14.ac 22.98212 40.52267 0.92 256.21
 OBJECT_SHARED Models/lib/LgMaint.ac 22.98514 40.52112 1.86 76.23
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 22.817423 40.501726 -2.4 0
