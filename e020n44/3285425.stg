@@ -12,8 +12,8 @@ OBJECT_SHARED Models/Airport/Pushback/Schopf_F110.ac 20.3004965 44.8138097 95.33
 OBJECT_SHARED Models/Airport/Pushback/Schopf_F110.ac 20.3007549 44.8137105 95.34 144
 OBJECT_SHARED Models/Airport/Pushback/Schopf_F110.ac 20.3010259 44.8135996 95.35 144
 OBJECT_SHARED Models/Airport/Pushback/Schopf_F110.ac 20.301409 44.8134507 95.36 144
-OBJECT_SHARED Models/Airport/localizer.xml 20.287194 44.828194 90.87 32
-OBJECT_SHARED Models/Airport/localizer.xml 20.331806 44.808417 96.34 212.02
+OBJECT_SHARED Models/Airport/localizer.xml 20.287194 44.828194 90.87 57.12
+OBJECT_SHARED Models/Airport/localizer.xml 20.331806 44.808417 96.34 237.12
 OBJECT_SHARED Models/Industrial/GenericStorageTank15m.ac 20.2889569 44.8153935 93.53 0
 OBJECT_SHARED Models/Industrial/entrepotblanc-ba.xml 20.2964885 44.8136523 95.33 60
 OBJECT_SHARED Models/Airport/Jetway/jetway-10.xml 20.2914977 44.8214082 94.23 54

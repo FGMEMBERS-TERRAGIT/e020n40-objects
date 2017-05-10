@@ -36,3 +36,4 @@ OBJECT_SHARED Models/Transport/van_blue_dirty.ac 24.42291 46.46732 290.75 194.04
 OBJECT_SHARED Models/Transport/van_silver.ac 24.42466 46.46753 291.06 249.77
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 24.42470 46.46757 291.03 13.24
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 24.429694 46.471061 290.57 285.19
