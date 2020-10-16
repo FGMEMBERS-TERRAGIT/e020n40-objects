@@ -14,3 +14,4 @@ OBJECT_SHARED Models/Sport/RedbullStartGate.ac 28.96125 41.02962 -0.01 153
 OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.95779 41.0327 0 180
 OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.95918 41.03193 -0.01 180
 OBJECT_SHARED Models/Sport/RedbullRedPylon.ac 28.96067 41.03137 0 180
+OBJECT_STATIC sultanahmet.xml 28.9772329 41.0049164 31.81 147

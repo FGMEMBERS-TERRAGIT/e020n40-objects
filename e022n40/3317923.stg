@@ -5,6 +5,6 @@ OBJECT_SHARED Models/Airport/tacan.xml 22.976667 40.5175 0.86 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 22.96305 40.522333 -1.07 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 22.96725 40.526833 -1.1 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 22.9698 40.518725 -1.42 180
-OBJECT_SHARED Models/Airport/localizer.xml 22.975 40.506667 7.12 256.62
-OBJECT_SHARED Models/Airport/localizer.xml 22.990714 40.515975 4.87 193.99
+OBJECT_SHARED Models/Airport/localizer.xml 22.975 40.506667 7.12 192.58
+OBJECT_SHARED Models/Airport/localizer.xml 22.990714 40.515975 4.87 256
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 22.817423 40.501726 -2.4 0
