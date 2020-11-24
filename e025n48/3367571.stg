@@ -5,3 +5,8 @@ OBJECT_SHARED Models/Airport/ils.xml 25.984722 48.251111 247.1 25.12
 OBJECT_SHARED Models/Airport/marker.ac 25.948259 48.298002 165.26 180
 OBJECT_SHARED Models/Airport/marker.ac 25.966594 48.276335 228.5 180
 OBJECT_SHARED Models/Airport/localizer.xml 25.9675 48.276389 231.02 25.12
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars4.ac 25.97278 48.26577 0.00 22.38
+# END dsf2stg
